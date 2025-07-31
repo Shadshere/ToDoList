@@ -15,12 +15,13 @@ WATCH HERE live demo : https://youtube.com/shorts/mJHle85A86Y
 - Visual Studio
 
 MyToDoList Application - Installation Instructions
+
 📁 What's Included in the Download
 Your zip file contains these files:
-•	📂 Application Files folder - Contains the compiled application
-•	🖥️ MyToDoList.application - ClickOnce deployment file
-•	📄 publish.htm - Installation webpage
-•	⚙️ setup.exe - Installation executable
+-📂 Application Files folder - Contains the compiled application
+-🖥️ MyToDoList.application - ClickOnce deployment file
+-📄 publish.htm - Installation webpage
+-⚙️ setup.exe - Installation executable
 
 🚀 Installation Methods
 Method 1: Easy Install (Recommended)

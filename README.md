@@ -29,11 +29,13 @@ Method 1: Easy Install (Recommended)
 2.	Double-click setup.exe
 3.	Follow the installation wizard
 4.	The app will be installed and a desktop shortcut will be created
+
 Method 2: ClickOnce Deployment
 1.	Extract the zip file to any folder
 2.	Open publish.htm in your web browser
 3.	Click the Install button on the webpage
 4.	Allow the installation when prompted by Windows
+
 Method 3: Direct Run
 1.	Extract the zip file
 2.	Navigate to: Application Files → MyToDoList_1_0_0_0 (or similar version folder)
@@ -48,26 +50,26 @@ Required:
 Automatic .NET Framework Installation:
 •	If .NET Framework 4.7.2 is not installed, Windows will automatically prompt to download and install it
 •	This is a one-time requirement and takes about 5-10 minutes
-🔧 First Time Setup
+
+🔧 First Time Setup :
 1.	Run the application using any of the methods above
 2.	Grant permissions if Windows asks for file access
 3.	Start adding tasks! The app will automatically create its data storage
 
-📊 Features You Can Use
-✨ Core Features:
-•	➕ Add tasks with optional due dates
-•	✅ Mark tasks as completed
-•	✏️ Edit existing tasks
-•	🗑️ Delete tasks
-•	📅 Set due dates with smart date display
+📊 Features You Can Use :
+➕ Add tasks with optional due dates
+✅ Mark tasks as completed
+✏️ Edit existing tasks
+🗑️ Delete tasks
+📅 Set due dates with smart date display
 
-🛡️ Security & Privacy
+🛡️ Security & Privacy :
 •	✅ No internet required - Works completely offline
 •	✅ No personal data collection - All data stays on your computer
 •	✅ Portable storage - Your tasks are saved in a simple text file
 •	✅ Easy backup - Just copy the tasks.txt file from %AppData%\MyToDoList\
 
-🎯 Quick Start Guide
+🎯 Quick Start Guide :
 1.	Install and run the application
 2.	Type a task in the text box (e.g., "Buy groceries")
 3.	Optionally set a due date by checking "Set due date"

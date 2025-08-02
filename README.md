@@ -3,7 +3,7 @@ A simple To-Do list for Windows Desktop App using C# and .NET Framework
 
 WATCH HERE live demo : (https://youtube.com/shorts/HrjAg7EP3Xg)
 
-![WhatsApp Image 2025-08-02 at 23 41 28_3c562b4e]
+![WhatsApp Image 2025-08-02 at 23 41 28_3c562b4e](https://github.com/user-attachments/assets/ccf8d1c2-e0bc-4435-a6cf-0e8fd1054662)
 
 
 ## 🚀 Features
